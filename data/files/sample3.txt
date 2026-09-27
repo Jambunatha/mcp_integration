@@ -1,0 +1,2 @@
+Batch processing handles multiple files in one operation.
+Directory monitoring can identify files created during the watch period.

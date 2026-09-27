@@ -1,0 +1,3 @@
+Python is used for backend development.
+MCP provides a standard way for applications to use tools.
+This file can be used for read and search testing.
